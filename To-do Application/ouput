@@ -1,0 +1,71 @@
+Options:
+1. Display to-do list      
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1       
+Your to-do list is empty.
+
+Options:
+1. Display to-do list    
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: Everyday workouts for 30 min
+Task 'Everyday workouts for 30 min' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: completing a topic of Web Development everyday
+Task 'completing a topic of Web Development everyday' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1               
+To-Do List:
+1. Everyday workouts for 30 min (Not Done)
+2. completing a topic of Web Development everyday (Not Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 3
+To-Do List:
+1. Everyday workouts for 30 min (Not Done)
+2. completing a topic of Web Development everyday (Not Done)
+Enter the task number to mark as completed: 1
+Task 1 marked as completed.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. Everyday workouts for 30 min (Done)
+2. completing a topic of Web Development everyday (Not Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 5
